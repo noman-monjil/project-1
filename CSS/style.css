@@ -1,0 +1,15 @@
+.images
+{
+    margin: 20px;
+   
+}
+.images img{
+    border-radius: 20px;
+    width: 400px;
+
+
+
+}
+body{
+    background-color:pink;
+}
